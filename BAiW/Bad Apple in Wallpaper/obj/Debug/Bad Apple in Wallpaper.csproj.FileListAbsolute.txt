@@ -1,0 +1,7 @@
+D:\GTF-DesConnet\Мои проекты\Bad Apple in Wallpaper\BAiW\Bad Apple in Wallpaper\bin\Debug\Bad Apple in Wallpaper.exe.config
+D:\GTF-DesConnet\Мои проекты\Bad Apple in Wallpaper\BAiW\Bad Apple in Wallpaper\bin\Debug\Bad Apple in Wallpaper.exe
+D:\GTF-DesConnet\Мои проекты\Bad Apple in Wallpaper\BAiW\Bad Apple in Wallpaper\bin\Debug\Bad Apple in Wallpaper.pdb
+D:\GTF-DesConnet\Мои проекты\Bad Apple in Wallpaper\BAiW\Bad Apple in Wallpaper\obj\Debug\Bad Apple in Wallpaper.csprojAssemblyReference.cache
+D:\GTF-DesConnet\Мои проекты\Bad Apple in Wallpaper\BAiW\Bad Apple in Wallpaper\obj\Debug\Bad Apple in Wallpaper.csproj.CoreCompileInputs.cache
+D:\GTF-DesConnet\Мои проекты\Bad Apple in Wallpaper\BAiW\Bad Apple in Wallpaper\obj\Debug\Bad Apple in Wallpaper.exe
+D:\GTF-DesConnet\Мои проекты\Bad Apple in Wallpaper\BAiW\Bad Apple in Wallpaper\obj\Debug\Bad Apple in Wallpaper.pdb

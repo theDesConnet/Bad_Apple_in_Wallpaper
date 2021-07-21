@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29006.145
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bad Apple in Wallpaper", "Bad Apple in Wallpaper\Bad Apple in Wallpaper.csproj", "{F770E14E-7D69-4B5B-802F-5D8D4C65E4C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F770E14E-7D69-4B5B-802F-5D8D4C65E4C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F770E14E-7D69-4B5B-802F-5D8D4C65E4C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F770E14E-7D69-4B5B-802F-5D8D4C65E4C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F770E14E-7D69-4B5B-802F-5D8D4C65E4C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {611A80F0-2254-44E9-91B0-A8CEDC9271F9}
+	EndGlobalSection
+EndGlobal
