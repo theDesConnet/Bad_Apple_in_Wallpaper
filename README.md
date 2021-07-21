@@ -9,6 +9,7 @@ Run file create_frames.cmd (need ffmpeg to path)
 
 After finishing creating frames, you can run "Bad Apple in Wallpaper.exe"
 
+
 (Ru)
 Перед использованием вам необходимо создать фреймы
 
