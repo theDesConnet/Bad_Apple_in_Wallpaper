@@ -14,6 +14,6 @@ After finishing creating frames, you can run "Bad Apple in Wallpaper.exe"
 
 После завершения создания фреймов можете запускать "Bad Apple in Wallpaper.exe"
 
-#About
+# About
 The project is still unfinished, but it will work in the future.
 :3
