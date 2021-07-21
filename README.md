@@ -5,7 +5,7 @@ Fun Project
 # (En)
 You need create frames
 
-Run file create_frames.cmd (need ffmpeg to path)
+Run file create_frames.cmd (need ffmpeg to path) if not work write command in cmd line (ffmpeg.exe -i BA_Original.mp4 "Frames/frame_\%02d.bmp") P.s need to create folder Frames in project folder
 
 After finishing creating frames, you can run "Bad Apple in Wallpaper.exe"
 # (Ru)
